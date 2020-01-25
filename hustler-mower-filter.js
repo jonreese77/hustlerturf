@@ -288,4 +288,4 @@ $(function() {
   });
 
 });
-<!-- /Filter JS by Dennis Erwin -->
+<!-- Filter JS by Dennis Erwin -->
