@@ -1,5 +1,4 @@
 <!-- Filter JS by Dennis Erwin -->
-<script src="https://npmcdn.com/isotope-layout@3.0/dist/isotope.pkgd.min.js"></script>
 <script type="text/javascript">
 
 //Global variable for filtered selection
