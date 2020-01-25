@@ -1,5 +1,4 @@
 <!-- Filter JS by Dennis Erwin -->
-<script type="text/javascript">
 
 //Global variable for filtered selection
 var filteredSelection = [];
@@ -289,6 +288,4 @@ $(function() {
   });
 
 });
-
-</script>
 <!-- /Filter JS by Dennis Erwin -->
